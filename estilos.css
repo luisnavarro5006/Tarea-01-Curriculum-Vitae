@@ -1,0 +1,47 @@
+:root {
+  --primario: #FFC107;
+}
+h1,h2,h3 {color:#FFC107; 
+          font-weight: bold}
+
+body{background-color: #393f59;}
+
+p,h1{color:azure;}
+
+div{width: 50%;
+    background-color: #fb6203bb;
+    margin: 0% auto;
+    border: 2px solid black;}
+
+h1{ font-size: 350%;}
+
+p{ font-size: 150%;
+  font-weight: bold;}
+
+body{font-family: Alumni_Sans_Pinstripe;}
+
+.info{background-color: #f7ad0bbb;}
+
+img{width:180; 
+    height: 300;  
+    float: right;
+    border: 1px solid black;
+  }
+
+@font-face {
+    font-family: Alumni_Sans_Pinstripe ;
+    src: url(AlumniSansPinstripe-Regular.ttf);
+  }
+
+#Habilidades{color:black; font-weight: bold;}
+#software{color:black; font-weight: bold;}
+#idiomas{color: black; font-weight: bold;}
+
+
+
+
+
+
+
+
+
